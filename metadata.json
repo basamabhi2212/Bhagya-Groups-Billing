@@ -1,0 +1,5 @@
+{
+  "name": "Bhagya Groups Billing",
+  "description": "A comprehensive billing application for Bhagya Groups to manage products, inventory, and generate GST-compliant estimates and invoices with PDF download functionality.",
+  "requestFramePermissions": []
+}
